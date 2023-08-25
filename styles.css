@@ -1,2 +1,14 @@
-
+/* Your CSS Code here. */
+form{
+    border: 1px solid black;
+    width: 500px;
+    overflow: hidden;
+    padding-inline: 20px;
+    display: flex;
+    flex-direction: column;
+}
+form>input{
+    width: 100%;
+    
+}
 /* Your CSS Code here. */
